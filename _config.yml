@@ -52,7 +52,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>Python</mark> and <mark>SQL</mark>
 
-- title: Experience
+content:
+  - title: Experience
     layout: list
     content:
       - layout: right
