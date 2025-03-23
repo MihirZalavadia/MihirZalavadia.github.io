@@ -105,10 +105,10 @@ content:
       - Tracking
       - Gaming
       - Reading
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      # - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      # Look at this cool image  
+      # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
