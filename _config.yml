@@ -21,12 +21,12 @@ instagram_username: mihirpatel_._
 # About Section
 about_profile_image: images/profile.jpg
 about_content: |
-  Hi, my name's Mihir and I'm a Software Developer Analyst with experience in Data Analysis. 3 years of turning chaos into clarity for Fortune 500 clients. Accenture-approved. 🏆
+  Hi! I'm Mihir, a dynamic Software Developer Analyst with a passion for Data Analysis and innovation. For over 3 years, I've transformed complex data into powerful insights and automated solutions for Fortune 500 companies at Accenture. 🌟
 
-  I am most skilled in: <mark>Python</mark> and <mark>SQL</mark>
+  Expertise spotlight: <mark>Python</mark>, <mark>SQL</mark>, and workflow automation.
 
 content:
-  - title: Experience
+  - title: Professional Experience
     layout: list
     content:
       - layout: left
@@ -35,11 +35,11 @@ content:
         sub_title: Software Developer Analyst
         caption: July 2022 - Present
         quote: >
-          If data is the new oil, I’m the refinery that turns it into rocket fuel. 🚀
+          Transforming raw data into strategic fuel for business rockets. 🚀
         description: |
-          Every company needs a data whisperer. I speak Python, SQL, and Browser-Automation fluently. Automated workflows and data extraction to boost efficiency by 30%.
+          Expert in automating data-intensive processes, I craft robust Python and SQL solutions, boosting productivity by 30% and enabling smarter, faster decisions for businesses.
 
-  - title: Education
+  - title: Academic Background
     layout: list
     content:
       - layout: left
@@ -47,47 +47,45 @@ content:
         caption: 2018 - 2022
         sub_title: BE Computer Engineering
         quote: >
-          Established in 1948, L.D. College of Engineering (LDCE) is one of Gujarat’s oldest and most prestigious government engineering colleges, renowned for its academic rigor and contributions to technical education.
+          Merging engineering rigor with real-world innovation since 1948.
         description: |
-          Studying at LDCE taught me to bridge code with real-world impact—a philosophy I carry into every project.
+          At LDCE, I cultivated a strong technical foundation and leadership skills, orchestrating major campus events and learning to deliver impact-driven software solutions.
 
-          Led 5K+ crowds at Thangaat. Today, I channel that energy into coding—where stakeholders replace sponsors, and clean code steals the show.
-
-  - title: Skills
+  - title: Core Skills & Expertise
     layout: list
     content:
       - layout: left
-        title: Industry Knowledge
-        description: Statistical Data Analysis, Automation & Manual Testing, Machine Learning, Web Development
+        title: Industry Expertise
+        description: Advanced Statistical Analysis, Workflow Automation, Machine Learning, Web Development
       - layout: left
-        title: Programming Languages
-        description: Python, SQL, Selenium, C#
+        title: Programming Mastery
+        description: Python, SQL, Selenium, C#, JavaScript
       - layout: left
-        title: Interpersonal Skills
-        description: Communication, Problem-solving
+        title: Soft Skills
+        description: Effective Communication, Problem-solving, Team Leadership, Agile Methodologies
 
-  - title: Projects
+  - title: Featured Projects
     layout: list
     content:
       - layout: left
-        title: Educational Augmented Reality (AR) App
-        sub_title: Android (Unity, Vuforia, C#)
+        title: Interactive Educational AR App
+        sub_title: Android | Unity, Vuforia, C#
         description: |
-          Built an interactive AR app overlaying information (text, graphics, audio) on real-world objects, enhancing educational experiences.
+          Developed an immersive augmented reality app to enrich education by overlaying interactive multimedia content on physical objects, significantly enhancing user engagement.
 
       - layout: left
-        title: Deep Learning Food Recognition App
-        sub_title: Python, Keras, Tkinter
+        title: AI-Powered Food Recognition App
+        sub_title: Python | Keras, Tkinter
         description: |
-          Developed a mobile app predicting food menu items based on user-drawn doodles, using deep learning for accurate real-time recognition and a user-friendly interface.
+          Created an innovative app leveraging deep learning techniques to interpret user-drawn doodles into accurate, real-time menu item predictions, coupled with an intuitive graphical interface.
 
-  - title: A Little More About Me
+  - title: Beyond the Code
     layout: text
     content: |
-      Alongside my interests in Data and software engineering, some of my other interests and hobbies are:
-      - Trekking
-      - Gaming
-      - Reading
+      When not deep-diving into data or coding adventures, you'll find me:
+      - Scaling mountains on exhilarating treks 🏞️
+      - Immersed in epic gaming sessions 🎮
+      - Exploring new worlds through reading 📚
 
 # Footer
 footer_show_references: true
