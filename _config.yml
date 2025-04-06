@@ -15,40 +15,13 @@ website: www.github.com/MihirZalavadia
 darkmode: false
 
 # Social links
-# twitter_username: facespics
-# github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
 linkedin_username: mihir-zalavadiya-9a00061bb
 instagram_username: mihirpatel_._
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-# additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Mihir and I'm a Software Developer Analyst, I also have experience in Data Analysis. 3 years of turning chaos into clarity for Fortune 500 clients. Accenture-approved." 🏆
+about_content: |
+  Hi, my name's Mihir and I'm a Software Developer Analyst with experience in Data Analysis. 3 years of turning chaos into clarity for Fortune 500 clients. Accenture-approved. 🏆
 
   I am most skilled in: <mark>Python</mark> and <mark>SQL</mark>
 
@@ -59,38 +32,65 @@ content:
       - layout: left
         title: Accenture
         link: https://www.accenture.com/in-en
-        # link_text: boringcompany.com
         sub_title: Software Developer Analyst
         caption: July 2022 - Present
         quote: >
           If data is the new oil, I’m the refinery that turns it into rocket fuel. 🚀
-        description: | # this will include new lines to allow paragraphs
-            Every company needs a data whisperer. I speak Python, SQL, and Browser-Automation fluently.
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+        description: |
+          Every company needs a data whisperer. I speak Python, SQL, and Browser-Automation fluently. Automated workflows and data extraction to boost efficiency by 30%.
+
+  - title: Education
+    layout: list
     content:
       - layout: left
-        title: L.D. College of Engineering 
+        title: L.D. College of Engineering
         caption: 2018 - 2022
         sub_title: BE Computer Engineering
         quote: >
-          Established in 1948, L.D. College of Engineering (LDCE) is one of Gujarat’s oldest and most prestigious government engineering colleges, renowned for its academic rigor and contributions to technical education. Affiliated with Gujarat Technological University (GTU) and accredited by NBA, LDCE has consistently ranked among the top engineering colleges in Gujarat, celebrated for fostering innovation and industry-ready graduates.
-        description: | # this will include new lines to allow paragraphs
+          Established in 1948, L.D. College of Engineering (LDCE) is one of Gujarat’s oldest and most prestigious government engineering colleges, renowned for its academic rigor and contributions to technical education.
+        description: |
           Studying at LDCE taught me to bridge code with real-world impact—a philosophy I carry into every project.
 
-          Led 5K+ crowds at Thangaat. Today, I channel that energy into coding – where stakeholders replace sponsors, and clean code steals the show.
+          Led 5K+ crowds at Thangaat. Today, I channel that energy into coding—where stakeholders replace sponsors, and clean code steals the show.
+
+  - title: Skills
+    layout: list
+    content:
+      - layout: left
+        title: Industry Knowledge
+        description: Statistical Data Analysis, Automation & Manual Testing, Machine Learning, Web Development
+      - layout: left
+        title: Programming Languages
+        description: Python, SQL, Selenium, C#
+      - layout: left
+        title: Interpersonal Skills
+        description: Communication, Problem-solving
+
+  - title: Projects
+    layout: list
+    content:
+      - layout: left
+        title: Educational Augmented Reality (AR) App
+        sub_title: Android (Unity, Vuforia, C#)
+        description: |
+          Built an interactive AR app overlaying information (text, graphics, audio) on real-world objects, enhancing educational experiences.
+
+      - layout: left
+        title: Deep Learning Food Recognition App
+        sub_title: Python, Keras, Tkinter
+        description: |
+          Developed a mobile app predicting food menu items based on user-drawn doodles, using deep learning for accurate real-time recognition and a user-friendly interface.
+
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in Data and software engineering some of my other interests and hobbies are:
+    content: |
+      Alongside my interests in Data and software engineering, some of my other interests and hobbies are:
       - Trekking
       - Gaming
       - Reading
-     
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
 
 # Build settings
 remote_theme: sproogen/modern-resume-theme
