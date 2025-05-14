@@ -21,9 +21,29 @@ instagram_username: mihirpatel_._
 # About Section
 about_profile_image: images/profile.jpg
 about_content: |
-  Hi! I'm Mihir, a dynamic Software Developer Analyst with a passion for Data Analysis and innovation. For over 3 years, I've transformed complex data into powerful insights and automated solutions for Fortune 500 companies at Accenture. 🌟
+  👋 Hi, I’m Mihir — a Software Developer Analyst with nearly 3 years of experience turning chaos into clean code.
 
-  Expertise spotlight: <mark>Python</mark>, <mark>SQL</mark>, and workflow automation.
+  🚀 I specialise in:
+  - Python scripting for automation
+  - SQL and data pipelines
+  - Reporting tools with Power BI & Excel
+  - Refactoring legacy systems
+  - Reverse-engineering vague requirements into working solutions
+
+  ⚙️ Tech Stack Highlights:
+  - Python, SQL, Power BI, Selenium
+  - Pandas, OpenPyXL, python-pptx, Streamlit
+  - Jira, ALM, Git
+
+  📈 Currently levelling up:
+  - DAX and Power BI dashboards
+  - Power Query & Excel automation
+  - Data storytelling for stakeholder decision-making
+
+  🔥 Motto: I don’t just solve bugs. I adopt them, raise them, and turn them into features.
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mihir-zalavadiya-9a00061bb)
+  [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/MihirZalavadia)
 
 content:
   - title: Professional Experience
