@@ -1,50 +1,57 @@
-# Site
+---
 repository: MihirZalavadia/MihirZalavadia.github.io
 favicon: images/favicon.ico
-
-# Content configuration version
 version: 2
-
-# Personal info
 name: Mihir Zalavadiya
 title: Software Developer Analyst
 email: mihir.k.zalavadiya@gmail.com
 website: www.github.com/MihirZalavadia
-
-# Dark Mode (true/false/never)
 darkmode: false
-
-# Social links
 linkedin_username: mihir-zalavadiya-9a00061bb
 instagram_username: mihirpatel_._
-
-# About Section
 about_profile_image: images/profile.jpg
-about_content: |
-  👋 Hi, I’m Mihir — a Software Developer Analyst with nearly 3 years of experience turning chaos into clean code.
+about_content: >
+  👋 Hi, I’m Mihir — a Software Developer Analyst with nearly 3
+  years of experience turning chaos into clean code.
+
 
   🚀 I specialise in:
+
   - Python scripting for automation
+
   - SQL and data pipelines
+
   - Reporting tools with Power BI & Excel
+
   - Refactoring legacy systems
+
   - Reverse-engineering vague requirements into working solutions
 
+
   ⚙️ Tech Stack Highlights:
+
   - Python, SQL, Power BI, Selenium
+
   - Pandas, OpenPyXL, python-pptx, Streamlit
+
   - Jira, ALM, Git
 
+
   📈 Currently levelling up:
+
   - DAX and Power BI dashboards
+
   - Power Query & Excel automation
+
   - Data storytelling for stakeholder decision-making
+
 
   🔥 Motto: I don’t just solve bugs. I adopt them, raise them, and turn them into features.
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mihir-zalavadiya-9a00061bb)
-  [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/MihirZalavadia)
 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mihir-zalavadiya-9a00061bb)
+
+  [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/MihirZalavadia)
 content:
   - title: Professional Experience
     layout: list
@@ -54,11 +61,12 @@ content:
         link: https://www.accenture.com/in-en
         sub_title: Software Developer Analyst
         caption: July 2022 - Present
-        quote: >
+        quote: |
           Transforming raw data into strategic fuel for business rockets. 🚀
-        description: |
-          Expert in automating data-intensive processes, I craft robust Python and SQL solutions, boosting productivity by 30% and enabling smarter, faster decisions for businesses.
-
+        description: >
+          Expert in automating data-intensive processes, I craft robust
+          Python and SQL solutions, boosting productivity by 30% and enabling
+          smarter, faster decisions for businesses.
   - title: Academic Background
     layout: list
     content:
@@ -66,62 +74,69 @@ content:
         title: L.D. College of Engineering
         caption: 2018 - 2022
         sub_title: BE Computer Engineering
-        quote: >
+        quote: |
           Merging engineering rigor with real-world innovation since 1948.
-        description: |
-          At LDCE, I cultivated a strong technical foundation and leadership skills, orchestrating major campus events and learning to deliver impact-driven software solutions.
-
+        description: >
+          At LDCE, I cultivated a strong technical foundation and leadership
+          skills, orchestrating major campus events and learning to deliver
+          impact-driven software solutions.
   - title: Core Skills & Expertise
     layout: list
     content:
       - layout: left
         title: Industry Expertise
-        description: Advanced Statistical Analysis, Workflow Automation, Machine Learning, Web Development
+        description: Advanced Statistical Analysis, Workflow Automation, Machine
+          Learning, Web Development
       - layout: left
         title: Programming Mastery
         description: Python, SQL, Selenium, C#, JavaScript
       - layout: left
         title: Soft Skills
-        description: Effective Communication, Problem-solving, Team Leadership, Agile Methodologies
-
-   - title: Featured Projects
+        description: Effective Communication, Problem-solving, Team Leadership, Agile
+          Methodologies
+  - title: Featured Projects
     layout: list
     content:
       - layout: left
         title: Doodle-Based Food Recognition Model
         sub_title: Python | Keras, Tkinter
         link: https://github.com/MihirZalavadia/Doodle-Food-Recognizer
-        description: |
-          A deep learning project that predicts food categories based on hand-drawn doodles. Built a CNN model, integrated with a real-time Tkinter-based drawing interface for testing and live inference.
-
+        description: >
+          A deep learning project that predicts food categories based on
+          hand-drawn doodles. Built a CNN model, integrated with a real-time
+          Tkinter-based drawing interface for testing and live inference.
       - layout: left
         title: Zephyr Excel Validator Utility
         sub_title: Python | FastAPI, Excel, ALM
         link: https://github.com/MihirZalavadia/Zephyr-Excel-Validator
-        description: |
-          A FastAPI-based utility to validate test case upload files before pushing them to Zephyr. Automates error checks and alerts leads via email—improved QA efficiency by 80%.
-
+        description: >
+          A FastAPI-based utility to validate test case upload files before
+          pushing them to Zephyr. Automates error checks and alerts leads via
+          email—improved QA efficiency by 80%.
       - layout: left
         title: SSA Gujarat Student Updater
         sub_title: Python | Playwright | Excel
         link: https://github.com/MihirZalavadia/SSA-Student-Updater
-        description: |
-          Automates bulk student record updates on the SSA Gujarat government portal. Bypasses manual web entry using Playwright, dramatically reducing time and errors.
-
+        description: >
+          Automates bulk student record updates on the SSA Gujarat government
+          portal. Bypasses manual web entry using Playwright, dramatically
+          reducing time and errors.
       - layout: left
         title: Build Fetcher Utility
         sub_title: Python | FastAPI | Jenkins Integration
         link: https://github.com/MihirZalavadia/Build-Fetcher
-        description: |
-          Replaces a legacy C# build lookup tool with a FastAPI-based system to fetch live service build numbers across environments—clean, fast, and fully integrated with existing test pipelines.
-
+        description: >
+          Replaces a legacy C# build lookup tool with a FastAPI-based system
+          to fetch live service build numbers across environments—clean, fast,
+          and fully integrated with existing test pipelines.
       - layout: left
         title: WolfDeals Price Tracker (WIP)
         sub_title: Python | FastAPI | Web Scraping
         link: https://github.com/MihirZalavadia/WolfDeals
-        description: |
-          A personal deal tracker that scrapes e-commerce sites for price drops. Sends alerts via email/Telegram and supports affiliate linking. Future scope includes dashboard and SaaS features.
-
+        description: >
+          A personal deal tracker that scrapes e-commerce sites for price
+          drops. Sends alerts via email/Telegram and supports affiliate linking.
+          Future scope includes dashboard and SaaS features.
   - title: Beyond the Code
     layout: text
     content: |
@@ -129,16 +144,10 @@ content:
       - Scaling mountains on exhilarating treks 🏞️
       - Immersed in epic gaming sessions 🎮
       - Exploring new worlds through reading 📚
-
-# Footer
 footer_show_references: true
-
-# Build settings
 remote_theme: sproogen/modern-resume-theme
-
 sass:
   sass_dir: _sass
   style: compressed
-
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
